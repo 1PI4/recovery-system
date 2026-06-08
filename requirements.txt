@@ -1,0 +1,3 @@
+# recolib runs on the Python standard library only (Python 3.8+).
+# Optional niceties:
+colorama>=0.4 ; platform_system == "Windows"

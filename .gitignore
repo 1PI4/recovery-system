@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+
+# PyInstaller intermediates (the finished dist\RecoveryDashboard.exe IS committed)
+build/
+*.spec
+
+# Personal recovered data + test scratch — NEVER publish these
+out/
+recovered_*/
+tools/_*_out/
+tools/*.img
+*.dd
